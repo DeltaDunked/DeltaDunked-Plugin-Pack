@@ -64,4 +64,4 @@ NOTE: there is both an MV and MZ version of this plugin. I don't have mz, so I c
 
 
 
-Terms of use: These may be used for commercial or free games. Give credit to DeltaDunked for these plugins. Please add a link to https://deltadunked.itch.io/rpg-maker-plugins. You may edit the code but not the name (some will break if the name is changed, also for ownership purposes).
+Terms of use: These may be used for commercial or free games. Give credit to DeltaDunked for these plugins. Please add a link to https://deltadunked.itch.io/rpg-maker-plugins or https://github.com/DeltaDunked/DeltaDunked-Plugin-Pack. You may not change the name (some will break if the name is changed, also for ownership purposes).
